@@ -1,5 +1,5 @@
 
-[![MasterHead align="center"](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)](https://dariomiccinelli.netlify.app/)
+
 
 
 <h1 align="center">Hi 👋, I'm Dario Miccinelli</h1>
@@ -28,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dario-miccinelli&show_icons=true&locale=en" alt="dario-miccinelli" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dario-miccinelli&" alt="dario-miccinelli" /></p>
+
+
+[![MasterHead align="center"](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)](https://dariomiccinelli.netlify.app/)
