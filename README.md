@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)](https://dariomiccinelli.netlify.app/)
+[![MasterHead align="center"](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)](https://dariomiccinelli.netlify.app/)
 
 
 <h1 align="center">Hi 👋, I'm Dario Miccinelli</h1>
