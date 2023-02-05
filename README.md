@@ -1,11 +1,13 @@
 
-[![MasterHead align="center"](https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif)](https://dariomiccinelli.netlify.app/)
+
 
 
 <h1 align="center">Hi 👋, I'm Dario Miccinelli</h1>
 <h3 align="center">A passionate Full Stack Developer from Italy!</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
+
+<img align="right" alt="Coding" width="540" height="565" src="https://s3.gifyu.com/images/Hi-Im-Dario-1.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dario-miccinelli&label=Profile%20views&color=0e75b6&style=flat" alt="dario-miccinelli" /> </p>
 
