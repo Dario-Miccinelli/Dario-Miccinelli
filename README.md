@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dario-miccinelli&label=Profile%20views&color=0e75b6&style=flat" alt="dario-miccinelli" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dario-miccinelli" alt="dario-miccinelli" /></a> </p>
-
 - 🔭 I’m currently working on [Boolean Careers](Final Project)
 
 - 🌱 I’m currently learning **Laravel, React, Java**
@@ -22,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dario-miccinelli&show_icons=true&locale=en&layout=compact" alt="dario-miccinelli" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dario-miccinelli&show_icons=true&locale=en" alt="dario-miccinelli" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dario-miccinelli&" alt="dario-miccinelli" /></p>
