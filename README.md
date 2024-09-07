@@ -11,11 +11,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dario-miccinelli&label=Profile%20views&color=0e75b6&style=flat" alt="dario-miccinelli" /> </p>
 
-- 🔭 I’m currently working on [Boolean Careers](Final Project)
+- 🔭 I’m currently searching for a job in Aarhus
 
-- 🌱 I’m currently learning **Laravel, React, Java**
+- 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me: **dariomiccinelli@mail.com**
+- 📫 How to reach me: **dariomiccinelliDK@outlook.com**
 
 
 
