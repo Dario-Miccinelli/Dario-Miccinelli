@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Dario Miccinelli</h1>
-<h3 align="center">A passionate Full Stack Developer from Italy!</h3>
+<h3 align="center">A passionate Full Stack Developer from Italy (Based in Aarhus, Denmark) </h3
 
 
 <img align="right" alt="Coding" width="350" height="340"  src="https://s3.gifyu.com/images/Hi-Im-Dario-3.gif">
@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently searching for a job in Aarhus
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **C#, .NET**
 
 - 📫 How to reach me: **dariomiccinelliDK@outlook.com**
 
