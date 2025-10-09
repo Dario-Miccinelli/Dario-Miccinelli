@@ -11,8 +11,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dario-miccinelli&label=Profile%20views&color=0e75b6&style=flat" alt="dario-miccinelli" /> </p>
 
-- 🔭 I’m currently searching for a job in Aarhus
-
 - 🌱 I’m currently learning **C#, .NET**
 
 - 📫 How to reach me: **dariomiccinelliDK@outlook.com**
